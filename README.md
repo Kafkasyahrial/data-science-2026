@@ -45,6 +45,11 @@ Berikut adalah daftar indeks notebook praktikum beserta tautan langsung untuk me
 | **Pertemuan 5** | Visualisasi Data Eksploratori (EDA) Diamonds dengan Seaborn & Matplotlib | [Buka Notebook](./Pertemuan5_KafkaSyahrial_[240401010045].ipynb) |
 | **Pertemuan 6** | Preprocessing Data: Handling Missing Values, Encoding & Scaling Titanic | [Buka Notebook](./Pertemuan6_KafkaSyahrial_[240401010045].ipynb) |
 | **Pertemuan 7** | Pengantar Machine Learning: Pemodelan & Evaluasi Regresi Linear Gaji | [Buka Notebook](./Pertemuan7_KafkaSyahrial_[240401010045].ipynb) |
+| **Pertemuan 9**  | Klasifikasi: Logistic Regression, Decision Tree, Confusion Matrix, Precision/Recall/F1 (Breast Cancer) | [Buka Notebook](https://github.com/Kafkasyahrial/data-science-2026/blob/main/Pertemuan9_KafkaSyahrial_%5B240401010045%5D.ipynb) |
+| **Pertemuan 10** | Ensemble Method (Random Forest) & Imbalanced Dataset — Customer Churn Prediction | [Buka Notebook](https://github.com/Kafkasyahrial/data-science-2026/blob/main/Pertemuan10_KafkaSyahrial_%5B240401010045%5D.ipynb) |
+| **Pertemuan 11** | Unsupervised Learning: K-Means, Hierarchical Clustering, Metode Elbow | [Buka Notebook](https://github.com/Kafkasyahrial/data-science-2026/blob/main/Pertemuan11_KafkaSyahrial_%5B240401010045%5D.ipynb) |
+| **Pertemuan 12** | Asosiasi Data (Algoritma Apriori) & Sistem Rekomendasi Dasar | [Buka Notebook](https://github.com/Kafkasyahrial/data-science-2026/blob/main/Pertemuan12_KafkaSyahrial_%5B240401010045%5D.ipynb) |
+| **Pertemuan 13** | Pengantar Deep Learning & NLP Dasar: ANN dan TF-IDF untuk Analisis Sentimen | [Buka Notebook](https://github.com/Kafkasyahrial/data-science-2026/blob/main/Pertemuan13_KafkaSyahrial_%5B240401010045%5D.ipynb) |
 
 ---
 
