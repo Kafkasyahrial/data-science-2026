@@ -1,6 +1,6 @@
 # Portofolio Pengantar Data Science - Universitas Siber Asia
 
-Selamat datang di repositori portofolio data science saya. Repositori ini disusun sebagai pemenuhan komponen pada mata kuliah Pengantar Data Science (IF405). Di dalamnya terdapat dokumentasi lengkap pipeline pengolahan data end-to-end dari Pertemuan 1 hingga Pertemuan 7 berdasarkan kerangka kerja industri CRISP-DM.
+Selamat datang di repositori portofolio data science saya. Repositori ini disusun sebagai pemenuhan komponen pada mata kuliah Pengantar Data Science (IF405). Di dalamnya terdapat dokumentasi lengkap pipeline pengolahan data end-to-end dari Pertemuan 1 hingga Pertemuan 13 berdasarkan kerangka kerja industri CRISP-DM.
 
 ---
 
@@ -88,9 +88,12 @@ Anda dapat menjalankan seluruh berkas analisis ini dengan dua cara alternatif:
     ```
 
 ---
+## Kesimpulan Umum Perjalanan Belajar (Pertemuan 1–13)
 
-## Kesimpulan Umum Perjalanan Belajar (Pertemuan 1–7)
+Perjalanan belajar intensif selama tiga belas pertemuan ini memberikan pemahaman mendalam mengenai siklus hidup proyek data science yang terstruktur secara end-to-end, mulai dari fondasi kerangka kerja CRISP-DM (Pertemuan 1-7) hingga penerapan algoritma Machine Learning dan Deep Learning tingkat lanjut (Pertemuan 9-13).
 
-Perjalanan belajar intensif selama tujuh pertemuan ini memberikan pemahaman mendalam mengenai siklus hidup proyek data science yang terstruktur secara end-to-end berbasis kerangka kerja CRISP-DM. Saya tidak hanya dilatih untuk menulis baris kode pemrograman, melainkan diajarkan cara berpikir analitis dalam menyusun sebuah pipeline data yang valid guna menghindari jebakan *data leakage*.
+Pada tahap awal, saya dilatih membersihkan anomali data mentah, melakukan eksplorasi statistik, hingga rekayasa fitur (*encoding* dan *scaling*), yang dipuncaki dengan pemodelan Regresi Linear berakurasi 97% untuk memprediksi target kontinu.
 
-Melalui pembersihan anomali data mentah, eksplorasi statistik, hingga rekayasa fitur (*encoding* dan *scaling*), saya memahami bagaimana mempersiapkan data mentah agar siap diproses oleh algoritma matematika. Puncaknya, pada pemodelan Regresi Linear, saya berhasil membuktikan secara ilmiah bagaimana variasi data input dapat memprediksi target kontinu dengan akurasi tinggi sebesar 97%. Kompetensi portofolio ini membentuk pondasi kuat bagi saya untuk menerapkan solusi berbasis data dalam memecahkan masalah nyata di masa depan.
+Pada tahap lanjutan, cakupan belajar meluas ke masalah klasifikasi menggunakan Logistic Regression, Decision Tree, dan Random Forest, termasuk penanganan data tidak seimbang (*imbalanced dataset*) pada kasus Customer Churn Prediction. Saya juga mempelajari teknik Unsupervised Learning (K-Means dan Hierarchical Clustering) untuk segmentasi data tanpa label, Algoritma Apriori untuk analisis asosiasi produk (Market Basket Analysis), serta pengantar Deep Learning melalui Artificial Neural Network dan pemrosesan teks (TF-IDF) untuk analisis sentimen.
+
+Kompetensi portofolio ini membentuk pondasi yang komprehensif — mencakup pemodelan prediktif, klasifikasi, clustering, sistem rekomendasi, hingga dasar-dasar NLP — bagi saya untuk menerapkan solusi berbasis data dalam memecahkan masalah nyata di masa depan.
